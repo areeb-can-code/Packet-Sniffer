@@ -1,4 +1,4 @@
-# 👃 Smelly Packs 👃
+# 👃 Packet Sniffer - written in Rust! 👃
 
 > To Note this progam has not tested on Linux. Packet headers and lengths are different, so when I get the time I will adjust the program for both versions.
 
