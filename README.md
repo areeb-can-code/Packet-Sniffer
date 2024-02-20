@@ -2,10 +2,10 @@
 
 > To Note this progam has not tested on Linux. Packet headers and lengths are different, so when I get the time I will adjust the program for both versions.
 
-> To get Windows to work, Wpcap and its required libraries are needed. Linking this is a pain so I\'ve provided the lib files for you to place in the relevant crates.
+> To get Windows to work, Wpcap and its required libraries are needed. Linking this is a pain so I've provided the lib files for you to place in the relevant crates.
 
-For further documentation: feel free to look at this
-https://docs.google.com/document/d/1NkGOZDVPglB4L6P7EOpB9ycqhHF2H3RxN193PGxkMwM/edit?usp=sharing
+~~For further documentation: feel free to look at this
+https://docs.google.com/document/d/1NkGOZDVPglB4L6P7EOpB9ycqhHF2H3RxN193PGxkMwM/edit?usp=sharing~~
 
 This project is a very simple terminal program to capture packets that are being sent and received by your device. In the current stage of this application, there are plans to use a DNS resolver and port scans for better smelling ;)
 Compiled with `rustc 1.65.0` || `cargo 1.65.0`. Any other builds or toolchains not tested...
